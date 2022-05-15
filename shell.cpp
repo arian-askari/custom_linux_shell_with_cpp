@@ -26,7 +26,7 @@ void rm(char *cmd);
 void clearScreen();
 
 char commands[][255] = {"exit","ls","pwd","rm","changep","clscr"};
-char promptTextUser[128] = "naizari";
+char promptTextUser[128] = "arian";
 char promptTextGroup[128]="ubuntu";
 int commandsLength = 6;
 
